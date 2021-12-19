@@ -1,6 +1,8 @@
 # install from terminal
 ### write on your terminal
 - pip install sqlalchemy
+
+
 ``` For UI ```
 - pip install pyqt5 pyqt5-tools pyqt5designer
 ```
